@@ -1,0 +1,2 @@
+# Banco Consultas Medicas
+ "Banco de Dados de Consultas Médicas: Este banco de dados é utilizado para armazenar informações básicas relacionadas a consultas médicas, médicos, pacientes, prescrições e medicamentos. Ele permite o registro de consultas, incluindo detalhes como datas, horários, diagnósticos e prescrições médicas. Além disso, mantém informações sobre médicos, pacientes e medicamentos para facilitar o acompanhamento das consultas e tratamentos."
